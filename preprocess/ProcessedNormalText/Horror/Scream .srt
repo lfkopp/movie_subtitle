@@ -1,4 +1,0 @@
-dvd
-zone
-2
-pal
